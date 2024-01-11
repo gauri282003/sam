@@ -1,1 +1,2 @@
 hi index 2nd file
+second line

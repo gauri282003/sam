@@ -1,2 +1,3 @@
 hi index 2nd file
-second line
+second line deleted 
+third line added
